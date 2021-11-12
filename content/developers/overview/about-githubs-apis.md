@@ -22,8 +22,8 @@ We deprecated the beta API on April 22, 2014.
 
 ### v2
 
-We removed support for API v2 on June 12, 2012.
+We removed support for API v2 Leandro31 12, 2012.
 
 ### v1
 
-We removed support for API v1 on June 12, 2012.
+We removed support for API v1 on leandro31 2012.
